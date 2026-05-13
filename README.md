@@ -8,6 +8,17 @@ This repository is organized into chapters, focusing first on the core fundament
 
 - **Chapter_02_Javascript_Concepts/**: Covers basic JavaScript concepts, variable creation, and core principles.
 - **Chapter_03_Identifier_Literals/**: Deep dives into JavaScript identifiers, naming conventions (camelCase, snake_case, etc.), literals, and commenting rules. Also includes VS Code shortcuts.
+- **Chapter_04_javascript_concepts/**: Focuses on variable declarations (`var`, `let`, `const`), variable scopes (global, function, block), and the concept of hoisting in JavaScript.
+
+### `var` vs `let` vs `const`
+
+| Feature | `var` | `let` | `const` |
+| :--- | :--- | :--- | :--- |
+| **Scope** | Function or Global scope | Block scope | Block scope |
+| **Hoisting** | Hoisted with `undefined` | Hoisted but uninitialized (TDZ) | Hoisted but uninitialized (TDZ) |
+| **Re-declaration** | Allowed in the same scope | Not allowed in the same scope | Not allowed in the same scope |
+| **Re-assignment** | Allowed | Allowed | Not allowed |
+| **Initialization** | Optional | Optional | Required at declaration |
 
 *(More chapters will be added as the course progresses!)*
 
