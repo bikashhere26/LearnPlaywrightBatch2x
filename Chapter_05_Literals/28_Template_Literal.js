@@ -18,7 +18,3 @@ const testName = "Login Test";
 const status = "FAILED";
 const duration = 2.3;
 console.log(`[${status}] ${testName} completed in ${duration}s`);
-
-
-
-
