@@ -17,6 +17,19 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_09_User_Input/**: User input handling in Node.js using basic input patterns, the `readline` module, and `prompt-sync`.
 - **Chapter_10_Loops/**: Loop constructs `for`, `for...of`, `while`, `do...while`, and practical loop practice questions.
 
+## 🧭 Chapter Table of Contents
+
+- [Chapter 01: Basics & Setup Verification](Chapter_01_Basics/README.md)
+- [Chapter 02: JavaScript Concepts](Chapter_02_Javascript_Concepts/README.md)
+- [Chapter 03: Identifiers, Literals, and Comments](Chapter_03_Identifier_Literals/README.md)
+- [Chapter 04: JavaScript Concepts](Chapter_04_javascript_concepts/README.md)
+- [Chapter 05: Literals](Chapter_05_Literals/README.md)
+- [Chapter 06: Operators](Chapter_06_Operator/README.md)
+- [Chapter 07: If-Else Statements](Chapter_07_If_Else/README.md)
+- [Chapter 08: Switch Statements](Chapter_08_Switch_Statement/README.md)
+- [Chapter 09: User Input](Chapter_09_User_Input/README.md)
+- [Chapter 10: Loops](Chapter_10_Loops/README.md)
+
 ## 📘 Chapter Details
 
 ### Chapter 01: Basics & Setup Verification
