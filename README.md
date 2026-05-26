@@ -1,27 +1,71 @@
 # Learn Playwright Batch 2x
 
-Welcome to the **Learn Playwright Batch 2x** repository! This project contains learning materials, code snippets, and exercises aimed at mastering JavaScript concepts and Playwright for automation testing.
+Welcome to the **Learn Playwright Batch 2x** repository! This project contains learning materials, code snippets, and exercises aimed at mastering JavaScript fundamentals and preparing for automation testing with Playwright.
 
 ## 📚 Repository Structure
 
-This repository is organized into chapters, focusing first on the core fundamentals of JavaScript before moving into more advanced automation concepts.
+This repository is organized into chapters, with each chapter focusing on a specific JavaScript concept or topic.
 
-- **Chapter_02_Javascript_Concepts/**: Covers basic JavaScript concepts, variable creation, and core principles.
-- **Chapter_03_Identifier_Literals/**: Deep dives into JavaScript identifiers, naming conventions (camelCase, snake_case, etc.), literals, and commenting rules. Also includes VS Code shortcuts.
-- **Chapter_04_javascript_concepts/**: Focuses on variable declarations (`var`, `let`, `const`), variable scopes (global, function, block), and the concept of hoisting in JavaScript.
-- **Chapter_10_Loops/**: Demonstrates loop constructs such as `for`, `for...of`, `while`, and `do...while`, along with practice questions and exercises.
+- **Chapter_01_Basics/**: Setup verification and initial JavaScript execution using Node.js.
+- **Chapter_02_Javascript_Concepts/**: Fundamental JavaScript concepts and variable creation.
+- **Chapter_03_Identifier_Literals/**: Identifiers, naming conventions, literals, and comments.
+- **Chapter_04_javascript_concepts/**: Variable declarations (`var`, `let`, `const`), scope, hoisting, and functions.
+- **Chapter_05_Literals/**: JavaScript literals including strings, numbers, `null`, `undefined`, template literals, and quotes.
+- **Chapter_06_Operator/**: Operators in JavaScript, including arithmetic, comparison, logical, ternary, `typeof`, increment/decrement, and nullish coalescing.
+- **Chapter_07_If_Else/**: Conditional logic using `if`, `if-else`, `else-if`, nested conditions, and real-world examples.
+- **Chapter_08_Switch_Statement/**: Switch statement syntax, fall-through behavior, default cases, case grouping, and comparisons with `if-else`.
+- **Chapter_09_User_Input/**: User input handling in Node.js using basic input patterns, the `readline` module, and `prompt-sync`.
+- **Chapter_10_Loops/**: Loop constructs `for`, `for...of`, `while`, `do...while`, and practical loop practice questions.
 
-### `var` vs `let` vs `const`
+## 📘 Chapter Details
 
-| Feature | `var` | `let` | `const` |
-| :--- | :--- | :--- | :--- |
-| **Scope** | Function or Global scope | Block scope | Block scope |
-| **Hoisting** | Hoisted with `undefined` | Hoisted but uninitialized (TDZ) | Hoisted but uninitialized (TDZ) |
-| **Re-declaration** | Allowed in the same scope | Not allowed in the same scope | Not allowed in the same scope |
-| **Re-assignment** | Allowed | Allowed | Not allowed |
-| **Initialization** | Optional | Optional | Required at declaration |
+### Chapter 01: Basics & Setup Verification
+- Environment setup and Node.js verification
+- Files: `01_Basics.js`, `02_JS.js`, `03_JS_Verify_Setup.js`
 
-*(More chapters will be added as the course progresses!)*
+### Chapter 02: JavaScript Concepts
+- Core JavaScript building blocks and variables
+- File: `05_JS_Basics.js`
+
+### Chapter 03: Identifiers, Literals, and Comments
+- Identifier naming rules and conventions
+- JavaScript comments and literal basics
+- Files include: `06_Identifier_Rules.js`, `07_Identifier_Part2.js`, `08_Comments.js`, `JS_Identifier_Rules.js`
+
+### Chapter 04: JavaScript Concepts
+- Variable declarations, scope, and hoisting
+- Function basics and junior QA practice
+- Files include: `09_var_let_const.js`, `10_function.js`, `11_var_explained.js`, `12_let_explained.js`, `13_const_explained.js`, `14_var_functionscope.js`, `15_let_scope.js`, `16_Hoisting.js`, `17_hoisting_fn.js`, `18_let_hoisting.js`, `19_let_hoisting_block.js`, `20_let_const.js`, `21_Jr_Qa.js`
+
+### Chapter 05: Literals
+- JavaScript literal types and string formatting
+- `null` vs `undefined`, number literals, and template literals
+- Files include: `22_Literal.js`, `23_null_undefined.js`, `24_null.js`, `25_Literal_All.js`, `26_literal_number_All.js`, `27_string.js`, `28_Template_Literal.js`, `29_Backtick_single_double.js`
+
+### Chapter 06: Operators
+- Assignment, arithmetic, comparison, logical, and ternary operators
+- Operator precedence, type coercion, and interview-style questions
+- Files include: `30_Assignment_Operators.js`, `31_Arithmetic_Operator.js`, `32_Modulus_Op.js`, `33_Expo_OP.js`, `34_IQ.js`, `35_Comparision_Operator.js`, `36_Comparsion_Strict_loose.js`, `37_IQ_Loose_Strict.js`, `38_confusing_comparision.js`, `39_logical_op.js`, `40_string_con_op.js`, `41_Ternary_Op.js`, `42_TypeOf_Op.js`, `43_Incre_Decre_Op.js`, `44_Null_Op.js`, `45_Post_Increment.js`, `46_IQ_INCREMENT_D.js`, `47_Advance_ID_.js`
+
+### Chapter 07: If-Else Statements
+- Conditional logic using `if`, `else if`, `else`, and nested conditions
+- Real-world use cases and interview practice
+- Files include: `48_If_Else.js`, `49_If_ElseIf_else.js`, `50_Real_If_Else.js`, `51_API_If_Else.js`, `52_IQ_If_Else.js`, `53_If_Else_real.js`, `54_IQ.js`, `55_IE.js`, `56_IQ_EVEN_ODD.js`, `57_Grade_Calc.js`, `58_LEAP_YEAR.js`
+
+### Chapter 08: Switch Statements
+- `switch` statement syntax, fall-through, default cases, and case grouping
+- Real-world examples and interview questions
+- Files include: `59_Switch.js`, `60_No_Break.js`, `61_default.js`, `62_real_time_example.js`, `63_Switch_Group.js`, `64_IQ.js`, `65_IQ2.js`, `66_IQ3.js`, `67_IQ4.js`
+
+### Chapter 09: User Input
+- Accepting user input in Node.js applications
+- `readline` module and `prompt-sync` usage
+- Files include: `68_User_Input.js`, `69_Node_readline.js`, `70_prompt_sync.js`
+
+### Chapter 10: Loops
+- Loop constructs and iterative patterns in JavaScript
+- `for`, `for...of`, `while`, `do...while`, and practice problems
+- Files include: `71_For_Loop.js`, `72_For_Loop.js`, `73_For_Loop2.js`, `74_IQ.js`, `75_For_OF_IN_EACH.js`, `76_While_loop.js`, `77_Do_While_Loop.js`, `78_Do_While_Loop`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js`
 
 ## 🚀 Getting Started
 
@@ -31,15 +75,19 @@ Make sure you have the following installed on your machine:
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Running the Code
-To run any of the JavaScript files in this repository, you can use Node.js from your terminal:
+To run any JavaScript file in this repository, use Node.js from your terminal:
+
 ```bash
 node path/to/file.js
 ```
+
 For example:
+
 ```bash
 node Chapter_03_Identifier_Literals/06_Identifier_Rules.js
 ```
 
 ## 📝 Helpful Notes
-- To view Markdown files (like this one) in Visual Studio Code, press `Ctrl + Shift + V`.
-- For a comprehensive list of useful VS Code keyboard shortcuts, see the `VS_Code_Keyboard_shortcut.md` file in Chapter 3.
+- To preview Markdown files in Visual Studio Code, use `Ctrl + Shift + V`.
+- Each chapter folder includes its own `README.md` file with detailed file lists and topics.
+- For Playwright-related exercises, make sure your Node.js environment is correctly configured.
