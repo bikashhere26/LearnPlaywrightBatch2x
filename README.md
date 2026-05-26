@@ -9,6 +9,7 @@ This repository is organized into chapters, focusing first on the core fundament
 - **Chapter_02_Javascript_Concepts/**: Covers basic JavaScript concepts, variable creation, and core principles.
 - **Chapter_03_Identifier_Literals/**: Deep dives into JavaScript identifiers, naming conventions (camelCase, snake_case, etc.), literals, and commenting rules. Also includes VS Code shortcuts.
 - **Chapter_04_javascript_concepts/**: Focuses on variable declarations (`var`, `let`, `const`), variable scopes (global, function, block), and the concept of hoisting in JavaScript.
+- **Chapter_10_Loops/**: Demonstrates loop constructs such as `for`, `for...of`, `while`, and `do...while`, along with practice questions and exercises.
 
 ### `var` vs `let` vs `const`
 
