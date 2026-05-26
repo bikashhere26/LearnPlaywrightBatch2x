@@ -16,6 +16,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_08_Switch_Statement/**: Switch statement syntax, fall-through behavior, default cases, case grouping, and comparisons with `if-else`.
 - **Chapter_09_User_Input/**: User input handling in Node.js using basic input patterns, the `readline` module, and `prompt-sync`.
 - **Chapter_10_Loops/**: Loop constructs `for`, `for...of`, `while`, `do...while`, and practical loop practice questions.
+- **Chapter_11_Array/**: JavaScript array operations, including creation, access, iteration, manipulation, and transformation.
 
 ## 🧭 Chapter Table of Contents
 
@@ -29,6 +30,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 08: Switch Statements](Chapter_08_Switch_Statement/README.md)
 - [Chapter 09: User Input](Chapter_09_User_Input/README.md)
 - [Chapter 10: Loops](Chapter_10_Loops/README.md)
+- [Chapter 11: Arrays](Chapter_11_Array/README.md)
 
 ## 📘 Chapter Details
 
@@ -79,6 +81,11 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - Loop constructs and iterative patterns in JavaScript
 - `for`, `for...of`, `while`, `do...while`, and practice problems
 - Files include: `71_For_Loop.js`, `72_For_Loop.js`, `73_For_Loop2.js`, `74_IQ.js`, `75_For_OF_IN_EACH.js`, `76_While_loop.js`, `77_Do_While_Loop.js`, `78_Do_While_Loop`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js`, `Assignment 1_Triangle_Clasifier.js`, `Assignment 2_Fizz_BuzzTest.js`
+
+### Chapter 11: Arrays
+- JavaScript array operations and collection handling
+- Array creation, access, iteration, search, modification, and transformation
+- Files include: `83_Array.js`, `84_Arrays.js`, `85_Access_Array.js`, `86_Arrays_Adding_Remove.js`, `87_Adding_Remove2.js`, `88_REAL_Example.js`, `89_Searching.js`, `90_Iterate.js`, `91_Transform_Array.js`
 
 ## 🚀 Getting Started
 
