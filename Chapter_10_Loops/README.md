@@ -16,6 +16,8 @@ This chapter covers JavaScript loop constructs and practical examples for repeat
 - `80_IQ.js` - More loop practice questions
 - `81_IQ.js` - More loop practice questions
 - `82_IQ.js` - More loop practice questions
+- `Assignment 1_Triangle_Clasifier.js` - Triangle classifier loop exercise
+- `Assignment 2_Fizz_BuzzTest.js` - Fizz Buzz loop test exercise
 
 ## Topics Covered
 

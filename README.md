@@ -78,7 +78,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 10: Loops
 - Loop constructs and iterative patterns in JavaScript
 - `for`, `for...of`, `while`, `do...while`, and practice problems
-- Files include: `71_For_Loop.js`, `72_For_Loop.js`, `73_For_Loop2.js`, `74_IQ.js`, `75_For_OF_IN_EACH.js`, `76_While_loop.js`, `77_Do_While_Loop.js`, `78_Do_While_Loop`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js`
+- Files include: `71_For_Loop.js`, `72_For_Loop.js`, `73_For_Loop2.js`, `74_IQ.js`, `75_For_OF_IN_EACH.js`, `76_While_loop.js`, `77_Do_While_Loop.js`, `78_Do_While_Loop`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js`, `Assignment 1_Triangle_Clasifier.js`, `Assignment 2_Fizz_BuzzTest.js`
 
 ## 🚀 Getting Started
 
