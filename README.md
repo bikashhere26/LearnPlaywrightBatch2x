@@ -31,6 +31,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 09: User Input](Chapter_09_User_Input/README.md)
 - [Chapter 10: Loops](Chapter_10_Loops/README.md)
 - [Chapter 11: Arrays](Chapter_11_Array/README.md)
+- [Chapter 12: Functions](Chapter_12_Functions/README.md)
 
 ## 📘 Chapter Details
 
@@ -86,6 +87,11 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - JavaScript array operations and collection handling
 - Array creation, access, iteration, search, modification, and transformation
 - `83_Array.js`, `84_Arrays.js`, `85_Access_Array.js`, `86_Arrays_Adding_Remove.js`, `87_Adding_Remove2.js`, `88_REAL_Example.js`, `89_Searching.js`, `90_Iterate.js`, `91_Transform_Array.js`, `92_Array_Sort.js`, `93_Array_Slicing.js`, `94_Concat_array.js`, `95_Array_Checking.js`
+
+### Chapter 12: Functions
+- JavaScript functions and reusable code blocks
+- Function declarations, parameters, returns, and output
+- Files include: `96_Functions.js`, `97_Type1_Fn_Basic_Functions.js`, `98_Type2_Fn_With_Param_No_Return.js`, `99_Type3_Fn_without_Param_Return_Type.js`, `100_Type4_Fn_With_Param_With_Return.js`
 
 ## 🚀 Getting Started
 
