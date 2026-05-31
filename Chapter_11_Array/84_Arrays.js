@@ -19,9 +19,8 @@ let test = Array.of(10, 20, 30, 40, 50);
 console.log(test);
 
 // Array.from()
-let chars = Array.from("hello");
-// ["h", "e", "l", "l", "o"]
+let chars = Array.from("hello"); // ["h", "e", "l", "l", "o"]
 console.log(chars);
 
-// let numbers1 = Array.from("123456789");
-// console.log(numbers1);
+let numbers1 = Array.from("123456789");
+console.log(numbers1);
