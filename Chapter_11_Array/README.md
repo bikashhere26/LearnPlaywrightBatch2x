@@ -13,6 +13,10 @@ This chapter covers JavaScript arrays, including creation, access, modification,
 - `89_Searching.js` - Searching arrays and finding elements
 - `90_Iterate.js` - Iterating arrays using loops and iteration methods
 - `91_Transform_Array.js` - Transforming arrays with map, filter, and other techniques
+- `92_Array_Sort.js` - Sorting arrays and compare functions
+- `93_Array_Slicing.js` - Slicing and extracting array segments
+- `94_Concat_array.js` - Concatenating arrays and merging data
+- `95_Array_Checking.js` - Array checking methods and validation
 
 ## Topics Covered
 
