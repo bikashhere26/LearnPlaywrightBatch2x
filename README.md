@@ -90,8 +90,8 @@ This repository is organized into chapters, with each chapter focusing on a spec
 
 ### Chapter 12: Functions
 - JavaScript functions and reusable code blocks
-- Function declarations, parameters, returns, and output
-- Files include: `96_Functions.js`, `97_Type1_Fn_Basic_Functions.js`, `98_Type2_Fn_With_Param_No_Return.js`, `99_Type3_Fn_without_Param_Return_Type.js`, `100_Type4_Fn_With_Param_With_Return.js`
+- Function declarations, parameters, return values, expressions, arrow functions, and output
+- Files include: `96_Functions.js`, `97_Type1_Fn_Basic_Functions.js`, `98_Type2_Fn_With_Param_No_Return.js`, `99_Type3_Fn_without_Param_Return_Type.js`, `100_Type4_Fn_With_Param_With_Return.js`, `101_Template_literal.js`, `102_Fn_Expression.js`, `103_Arrow_Fn.js`
 
 ## 🚀 Getting Started
 
