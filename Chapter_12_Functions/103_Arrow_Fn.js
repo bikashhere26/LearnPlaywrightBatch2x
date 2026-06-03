@@ -9,3 +9,5 @@ console.log("Result of addition:", add(5, 3)); // Result of addition: 8
 const greet = name => `Hello, ${name}!`;
 console.log(greet("Alice")); // Output: Hello, Alice!
 
+
+

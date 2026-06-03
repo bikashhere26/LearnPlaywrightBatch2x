@@ -13,3 +13,11 @@ const add = function(a, b) {
 }
 console.log("Result of addition:", add(5, 3)); // Result of addition: 8
 
+
+
+const doubleit = function(n) {
+    return n * 2;
+}
+console.log(doubleit(5)); // Output: 10
+
+
