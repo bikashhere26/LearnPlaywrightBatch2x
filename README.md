@@ -17,6 +17,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_09_User_Input/**: User input handling in Node.js using basic input patterns, the `readline` module, and `prompt-sync`.
 - **Chapter_10_Loops/**: Loop constructs `for`, `for...of`, `while`, `do...while`, and practical loop practice questions.
 - **Chapter_11_Array/**: JavaScript array operations, including creation, access, iteration, manipulation, and transformation.
+- **Chapter_13_Strings/**: String methods, properties, extraction, search, and conversion.
 
 ## 🧭 Chapter Table of Contents
 
@@ -32,6 +33,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 10: Loops](Chapter_10_Loops/README.md)
 - [Chapter 11: Arrays](Chapter_11_Array/README.md)
 - [Chapter 12: Functions](Chapter_12_Functions/README.md)
+- [Chapter 13: Strings](Chapter_13_Strings/README.md)
 
 ## 📘 Chapter Details
 
@@ -92,6 +94,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - JavaScript functions and reusable code blocks
 - Function declarations, parameters, return values, expressions, arrow functions, IIFE, default parameters, closures, higher-order functions, and pure functions
 - Files include: `96_Functions.js`, `97_Type1_Fn_Basic_Functions.js`, `98_Type2_Fn_With_Param_No_Return.js`, `99_Type3_Fn_without_Param_Return_Type.js`, `100_Type4_Fn_With_Param_With_Return.js`, `101_Template_literal.js`, `102_Fn_Expression.js`, `103_Arrow_Fn.js`, `104_Arrow_Fn_REAL.js`, `105_IIFE.js`, `106_Default_Param_Fn.js`, `107_IQ.js`, `108_Rest_Param_Fn.js`, `109_IQ.js`, `110_Spead_IQ.js`, `111_Scope._Fn.js`, `112_IQ.js`, `113_Closure.js`, `114_Closure.js`, `115_API_REAL_Closure.js`, `116_Higher_Order_Fn.js`, `117_Pure_Fn.js`
+
+### Chapter 13: Strings
+- String methods, properties, extraction, search, transformation, and conversion
+- Files include: `118_Strings.js`, `119_String_Properties.js`, `120_Search_Check_Str.js`, `121_Substring.js`, `122_Transform_Str.js`, `123_String_Conversion.js`
 
 ## 🚀 Getting Started
 
