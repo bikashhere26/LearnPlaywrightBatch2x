@@ -17,7 +17,9 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_09_User_Input/**: User input handling in Node.js using basic input patterns, the `readline` module, and `prompt-sync`.
 - **Chapter_10_Loops/**: Loop constructs `for`, `for...of`, `while`, `do...while`, and practical loop practice questions.
 - **Chapter_11_Array/**: JavaScript array operations, including creation, access, iteration, manipulation, and transformation.
+- **Chapter_12_Functions/**: JavaScript functions, parameters, return values, arrow functions, closures, and higher-order patterns.
 - **Chapter_13_Strings/**: String methods, properties, extraction, search, and conversion.
+- **Chapter_14_Objects/**: Objects, object creation, object functions, primitive vs reference behavior, and destructuring.
 
 ## 🧭 Chapter Table of Contents
 
@@ -34,6 +36,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 11: Arrays](Chapter_11_Array/README.md)
 - [Chapter 12: Functions](Chapter_12_Functions/README.md)
 - [Chapter 13: Strings](Chapter_13_Strings/README.md)
+- [Chapter 14: Objects](Chapter_14_Objects/README.md)
 
 ## 📘 Chapter Details
 
@@ -98,6 +101,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 13: Strings
 - String methods, properties, extraction, search, transformation, and conversion
 - Files include: `118_Strings.js`, `119_String_Properties.js`, `120_Search_Check_Str.js`, `121_Substring.js`, `122_Transform_Str.js`, `123_String_Conversion.js`
+
+### Chapter 14: Objects
+- Objects, creation patterns, object functions, primitive vs reference behavior, and destructuring
+- Files include: `124_Objects.js`, `125_Objects2.js`, `126_Objects_Creation.js`, `127_Objects_REAL.js`, `128_Primitive_Ref.js`, `129_Ob_Examples.js`, `130_IQ.js`, `131_Object_Fn.js`, `132_Obj_Decon.js`, and `cheatsheet.md`
 
 ## 🚀 Getting Started
 
