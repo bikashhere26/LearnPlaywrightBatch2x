@@ -1,6 +1,6 @@
 # Chapter 14: Objects
 
-This chapter introduces JavaScript objects, object creation, primitive vs reference behavior, object functions, and object destructuring.
+This chapter introduces JavaScript objects, object creation, primitive vs reference behavior, object functions, object destructuring, get/set methods, object iteration, and real-world practice examples.
 
 ## Files
 
@@ -13,6 +13,11 @@ This chapter introduces JavaScript objects, object creation, primitive vs refere
 - `130_IQ.js`
 - `131_Object_Fn.js`
 - `132_Obj_Decon.js`
+- `133_Spead.js`
+- `134_Objects_GET_SET_Methods.js`
+- `135_IQ.js`
+- `136_Obj_REAL.js`
+- `137_Let_const_obj.js`
 - `cheatsheet.md`
 
 ## Topics
@@ -22,6 +27,9 @@ This chapter introduces JavaScript objects, object creation, primitive vs refere
 - Primitive values vs reference values
 - Real-world object examples and practice questions
 - Object functions and object destructuring
+- Get/set methods for controlled access
+- Iterating object properties with `for...in`
+- `let` vs `const` behavior with objects
 - Quick revision notes in the cheatsheet
 
 ## Running examples

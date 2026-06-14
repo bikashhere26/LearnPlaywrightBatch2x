@@ -19,7 +19,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_11_Array/**: JavaScript array operations, including creation, access, iteration, manipulation, and transformation.
 - **Chapter_12_Functions/**: JavaScript functions, parameters, return values, arrow functions, closures, and higher-order patterns.
 - **Chapter_13_Strings/**: String methods, properties, extraction, search, and conversion.
-- **Chapter_14_Objects/**: Objects, object creation, object functions, primitive vs reference behavior, and destructuring.
+- **Chapter_14_Objects/**: Objects, object creation, object functions, primitive vs reference behavior, destructuring, get/set methods, object iteration, and practice files.
 
 ## 🧭 Chapter Table of Contents
 
@@ -103,8 +103,8 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - Files include: `118_Strings.js`, `119_String_Properties.js`, `120_Search_Check_Str.js`, `121_Substring.js`, `122_Transform_Str.js`, `123_String_Conversion.js`
 
 ### Chapter 14: Objects
-- Objects, creation patterns, object functions, primitive vs reference behavior, and destructuring
-- Files include: `124_Objects.js`, `125_Objects2.js`, `126_Objects_Creation.js`, `127_Objects_REAL.js`, `128_Primitive_Ref.js`, `129_Ob_Examples.js`, `130_IQ.js`, `131_Object_Fn.js`, `132_Obj_Decon.js`, and `cheatsheet.md`
+- Objects, creation patterns, object functions, primitive vs reference behavior, destructuring, get/set methods, object iteration, and real-world practice
+- Files include: `124_Objects.js`, `125_Objects2.js`, `126_Objects_Creation.js`, `127_Objects_REAL.js`, `128_Primitive_Ref.js`, `129_Ob_Examples.js`, `130_IQ.js`, `131_Object_Fn.js`, `132_Obj_Decon.js`, `133_Spead.js`, `134_Objects_GET_SET_Methods.js`, `135_IQ.js`, `136_Obj_REAL.js`, `137_Let_const_obj.js`, and `cheatsheet.md`
 
 ## 🚀 Getting Started
 

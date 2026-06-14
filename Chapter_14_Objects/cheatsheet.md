@@ -146,3 +146,52 @@ This creates a new object, so changing `person2` will not affect `person1`.
 ## 9. 5th-grade explanation
 An object is like a little box of facts about one thing.
 It helps us keep related information together in one place.
+
+## 10. get and set methods (simple idea)
+Think of an object like a small box.
+- `get` = show me what is inside
+- `set` = change what is inside
+
+This is useful because we can control the value before saving it.
+
+### Simple example
+```javascript
+const account = {
+  _balance: 1000,
+
+  get balance() {
+    return this._balance;
+  },
+
+  set balance(amount) {
+    if (amount >= 0) {
+      this._balance = amount;
+    } else {
+      console.log("Balance cannot be negative!");
+    }
+  }
+};
+
+console.log("Current balance:", account.balance);
+
+account.balance = 1500;
+console.log("Updated balance:", account.balance);
+
+account.balance = -500;
+console.log("Final balance:", account.balance);
+```
+
+### Easy meaning
+- `account.balance` uses `get`
+- `account.balance = 1500` uses `set`
+
+### Bank account story
+- `get` = “How much money is in my account?”
+- `set` = “Put this much money in my account.”
+
+If someone tries to put a negative amount, the code says no.
+
+### Why use get/set?
+- makes code easier to understand
+- helps control values
+- keeps the object safe

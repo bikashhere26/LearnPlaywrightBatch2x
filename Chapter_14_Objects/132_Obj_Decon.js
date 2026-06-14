@@ -43,3 +43,32 @@ const { name: defaultName = 'Unknown', age: defaultAge = 0 } = person;
 
 console.log(defaultName);
 console.log(defaultAge);
+
+
+// objects within objects
+
+const data = {
+    student: 
+        {
+        name: 'Alice',
+        age: 22,
+            address: 
+             {
+                street: '123 Main St',
+                city: 'New York',
+                college: 
+             {
+               name: 'XYZ University',
+               location: 'New York'
+        }
+    }
+}
+};
+
+
+const { student: {address: {college}} } = data;
+console.log(data.student);
+console.log(data.address);
+console.log(college);
+
+
