@@ -20,6 +20,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_12_Functions/**: JavaScript functions, parameters, return values, arrow functions, closures, and higher-order patterns.
 - **Chapter_13_Strings/**: String methods, properties, extraction, search, and conversion.
 - **Chapter_14_Objects/**: Objects, object creation, object functions, primitive vs reference behavior, destructuring, get/set methods, object iteration, and practice files.
+- **Chapter_16_Callback/**: JavaScript callback functions, callback hell, and callback examples.
 
 ## 🧭 Chapter Table of Contents
 
@@ -38,6 +39,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 13: Strings](Chapter_13_Strings/README.md)
 - [Chapter 14: Objects](Chapter_14_Objects/README.md)
 - [Chapter 15: 2D Arrays](Chapter_15_2D_Array/README.md)
+- [Chapter 16: Callback](Chapter_16_Callback/README.md)
 
 ## 📘 Chapter Details
 
@@ -110,6 +112,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 15: 2D Arrays
 - 2D array declaration, nested loops, matrix-style traversal, and pattern printing
 - Files include: `138_2D_Array.js`, `139_2d.js`, `140_REAL.js`, `141_2d_Array_Fn.js`, `142_IQ_Right_Pattern_Py.js`, `Cheatsheet.md`
+
+### Chapter 16: Callback
+- JavaScript callback functions, callback parameters, callback hell, and practical callback examples
+- Files include: `143_Callback.js`, `144_CB.js`, `145_CB_Fn.js`, `146_PW_CB.js`, `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_CB.js`, `150_CB_Hell.js`, `151_CB_Hell_20_Steps.js`, `152_CB_Parameter.js`, `153_CB_Return.js`, `cheatsheet.md`
 
 ## 🚀 Getting Started
 
