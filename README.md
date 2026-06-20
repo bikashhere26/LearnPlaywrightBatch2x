@@ -21,6 +21,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_13_Strings/**: String methods, properties, extraction, search, and conversion.
 - **Chapter_14_Objects/**: Objects, object creation, object functions, primitive vs reference behavior, destructuring, get/set methods, object iteration, and practice files.
 - **Chapter_16_Callback/**: JavaScript callback functions, callback hell, and callback examples.
+- **Chapter_17_Promise/**: JavaScript promises, Promise.all, Promise.allSettled, and async handling.
 
 ## 🧭 Chapter Table of Contents
 
@@ -40,6 +41,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 14: Objects](Chapter_14_Objects/README.md)
 - [Chapter 15: 2D Arrays](Chapter_15_2D_Array/README.md)
 - [Chapter 16: Callback](Chapter_16_Callback/README.md)
+- [Chapter 17: Promises](Chapter_17_Promise/README.md)
 
 ## 📘 Chapter Details
 
@@ -116,6 +118,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 16: Callback
 - JavaScript callback functions, callback parameters, callback hell, and practical callback examples
 - Files include: `143_Callback.js`, `144_CB.js`, `145_CB_Fn.js`, `146_PW_CB.js`, `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_CB.js`, `150_CB_Hell.js`, `151_CB_Hell_20_Steps.js`, `152_CB_Parameter.js`, `153_CB_Return.js`, `cheatsheet.md`
+
+### Chapter 17: Promises
+- JavaScript promises, `Promise.all`, `Promise.allSettled`, and async result handling
+- Files include: `154_Promise.js`, `155_Promise_REAL_API.js`, `156_Promise_REAL_API_PART2.js`, `157_Finally.js`, `158_Call_Py_Problem.js`, `159_Promise_All.js`, `160_Promise_IQ.js`, `Cheatsheet.md`
 
 ## 🚀 Getting Started
 
