@@ -21,8 +21,8 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_13_Strings/**: String methods, properties, extraction, search, and conversion.
 - **Chapter_14_Objects/**: Objects, object creation, object functions, primitive vs reference behavior, destructuring, get/set methods, object iteration, and practice files.
 - **Chapter_16_Callback/**: JavaScript callback functions, callback hell, and callback examples.
-- **Chapter_17_Promise/**: JavaScript promises, Promise.all, Promise.allSettled, and async handling.
-
+- **Chapter_17_Promise/**: JavaScript promises, Promise.all, Promise.allSettled, and async handling.- **Chapter 18: Async / Await**: Async functions, `await` operators, sequencing, and parallel execution.
+- **Chapter 19: Playwright Basics**: Playwright test automation examples and project setup.
 ## 🧭 Chapter Table of Contents
 
 - [Chapter 01: Basics & Setup Verification](Chapter_01_Basics/README.md)
@@ -42,6 +42,8 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 15: 2D Arrays](Chapter_15_2D_Array/README.md)
 - [Chapter 16: Callback](Chapter_16_Callback/README.md)
 - [Chapter 17: Promises](Chapter_17_Promise/README.md)
+- [Chapter 18: Async / Await](Chapter_18_Async_Await/README.md)
+- [Chapter 19: Playwright Basics](Chapter_19_Playwright_Basics/README.md)
 
 ## 📘 Chapter Details
 
