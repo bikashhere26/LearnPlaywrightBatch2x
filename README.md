@@ -21,8 +21,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_13_Strings/**: String methods, properties, extraction, search, and conversion.
 - **Chapter_14_Objects/**: Objects, object creation, object functions, primitive vs reference behavior, destructuring, get/set methods, object iteration, and practice files.
 - **Chapter_16_Callback/**: JavaScript callback functions, callback hell, and callback examples.
-- **Chapter_17_Promise/**: JavaScript promises, Promise.all, Promise.allSettled, and async handling.- **Chapter 18: Async / Await**: Async functions, `await` operators, sequencing, and parallel execution.
+- **Chapter 17: Promise**: JavaScript promises, Promise.all, Promise.allSettled, and async handling.
+- **Chapter 18: Async / Await**: Async functions, `await` operators, sequencing, and parallel execution.
 - **Chapter 19: Playwright Basics**: Playwright test automation examples and project setup.
+
 ## 🧭 Chapter Table of Contents
 
 - [Chapter 01: Basics & Setup Verification](Chapter_01_Basics/README.md)
@@ -124,6 +126,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 17: Promises
 - JavaScript promises, `Promise.all`, `Promise.allSettled`, and async result handling
 - Files include: `154_Promise.js`, `155_Promise_REAL_API.js`, `156_Promise_REAL_API_PART2.js`, `157_Finally.js`, `158_Call_Py_Problem.js`, `159_Promise_All.js`, `160_Promise_IQ.js`, `Cheatsheet.md`
+
+### Chapter 18: Async / Await
+- Async/await patterns, sequential and parallel async flow, and browser automation examples.
+- Files include: `161_Async.js`, `162_Aysnc_P2.js`, `163_PyODom.js`, `164_Async_Ex.js`, `165_AA_Parallel.js`, `166_AA_Seq.js`, `167_IQ.js`, `168_ACLogin.js`
 
 ## 🚀 Getting Started
 
