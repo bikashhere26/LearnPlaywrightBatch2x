@@ -24,6 +24,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter 17: Promise**: JavaScript promises, Promise.all, Promise.allSettled, and async handling.
 - **Chapter 18: Async / Await**: Async functions, `await` operators, sequencing, and parallel execution.
 - **Chapter 19: Playwright Basics**: Playwright test automation examples and project setup.
+- **Chapter 20: Export / Import**: ES module examples covering named exports, default imports, and utility module reuse.
 
 ## 🧭 Chapter Table of Contents
 
@@ -46,6 +47,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 17: Promises](Chapter_17_Promise/README.md)
 - [Chapter 18: Async / Await](Chapter_18_Async_Await/README.md)
 - [Chapter 19: Playwright Basics](Chapter_19_Playwright_Basics/README.md)
+- [Chapter 20: Export / Import](Chapter_20_Export_Import/README.md)
 
 ## 📘 Chapter Details
 
@@ -130,6 +132,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 18: Async / Await
 - Async/await patterns, sequential and parallel async flow, and browser automation examples.
 - Files include: `161_Async.js`, `162_Aysnc_P2.js`, `163_PyODom.js`, `164_Async_Ex.js`, `165_AA_Parallel.js`, `166_AA_Seq.js`, `167_IQ.js`, `168_ACLogin.js`
+
+### Chapter 20: Export / Import
+- ES module examples for exporting utility functions and importing them across files.
+- Files include: `01_EXPORT_IMPORT/168_EXPORT_IMPORT.js`, `01_EXPORT_IMPORT/169_Utils.js`, and `01_EXPORT_IMPORT/170_Logger.js`.
 
 ## 🚀 Getting Started
 
