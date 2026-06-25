@@ -25,6 +25,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter 18: Async / Await**: Async functions, `await` operators, sequencing, and parallel execution.
 - **Chapter 19: Playwright Basics**: Playwright test automation examples and project setup.
 - **Chapter 20: Export / Import**: ES module examples covering named exports, default imports, and utility module reuse.
+- **Chapter 21: Classes and Objects**: JavaScript classes, objects, constructors, static members, and public/private concepts.
 
 ## 🧭 Chapter Table of Contents
 
@@ -48,6 +49,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 18: Async / Await](Chapter_18_Async_Await/README.md)
 - [Chapter 19: Playwright Basics](Chapter_19_Playwright_Basics/README.md)
 - [Chapter 20: Export / Import](Chapter_20_Export_Import/README.md)
+- [Chapter 21: Classes and Objects](Chapter_21_Classes_and_Objects/README.md)
 
 ## 📘 Chapter Details
 
@@ -136,6 +138,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 20: Export / Import
 - ES module examples for exporting utility functions and importing them across files.
 - Files include: `01_EXPORT_IMPORT/168_EXPORT_IMPORT.js`, `01_EXPORT_IMPORT/169_Utils.js`, and `01_EXPORT_IMPORT/170_Logger.js`.
+
+### Chapter 21: Classes and Objects
+- JavaScript classes, object creation, constructors, static methods, and access control concepts.
+- Files include: `171_Class_Object.js`, `172_Class_Object2.js`, `173_Car.js`, `174_REAL_Browser.js`, `175_IQ.js`, `176_Private_Public.js`, `177_Statis.js`, `178_Statis.js`, and `cheatsheet.md`.
 
 ## 🚀 Getting Started
 
