@@ -26,6 +26,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter 19: Playwright Basics**: Playwright test automation examples and project setup.
 - **Chapter 20: Export / Import**: ES module examples covering named exports, default imports, and utility module reuse.
 - **Chapter 21: Classes and Objects**: JavaScript classes, objects, constructors, static members, and public/private concepts.
+ - **Chapter 22: Encapsulation**: Encapsulation examples demonstrating private and public members in JavaScript.
 
 ## 🧭 Chapter Table of Contents
 
@@ -50,6 +51,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 19: Playwright Basics](Chapter_19_Playwright_Basics/README.md)
 - [Chapter 20: Export / Import](Chapter_20_Export_Import/README.md)
 - [Chapter 21: Classes and Objects](Chapter_21_Classes_and_Objects/README.md)
+ - [Chapter 22: Encapsulation](Chapter_22_Encapsulation/README.md)
 
 ## 📘 Chapter Details
 
@@ -142,6 +144,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 21: Classes and Objects
 - JavaScript classes, object creation, constructors, static methods, and access control concepts.
 - Files include: `171_Class_Object.js`, `172_Class_Object2.js`, `173_Car.js`, `174_REAL_Browser.js`, `175_IQ.js`, `176_Private_Public.js`, `177_Statis.js`, `178_Statis.js`, and `cheatsheet.md`.
+
+### Chapter 22: Encapsulation
+- Encapsulation examples showing how to hide internal state and expose controlled interfaces.
+- Files include: `179_Ecap.js`, `180_REAL_EXAMPLE.js`, `181_Ecap_Car.js`, `182_ECap_Bank.js`
 
 ## 🚀 Getting Started
 
