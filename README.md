@@ -27,6 +27,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter 20: Export / Import**: ES module examples covering named exports, default imports, and utility module reuse.
 - **Chapter 21: Classes and Objects**: JavaScript classes, objects, constructors, static members, and public/private concepts.
  - **Chapter 22: Encapsulation**: Encapsulation examples demonstrating private and public members in JavaScript.
+- **Chapter 23: Inheritance**: JavaScript inheritance and prototype-based reuse patterns.
 
 ## 🧭 Chapter Table of Contents
 
@@ -51,7 +52,8 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 19: Playwright Basics](Chapter_19_Playwright_Basics/README.md)
 - [Chapter 20: Export / Import](Chapter_20_Export_Import/README.md)
 - [Chapter 21: Classes and Objects](Chapter_21_Classes_and_Objects/README.md)
- - [Chapter 22: Encapsulation](Chapter_22_Encapsulation/README.md)
+- [Chapter 22: Encapsulation](Chapter_22_Encapsulation/README.md)
+- [Chapter 23: Inheritance](Chapter_23_Inheritance/README.md)
 
 ## 📘 Chapter Details
 
@@ -148,6 +150,11 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 22: Encapsulation
 - Encapsulation examples showing how to hide internal state and expose controlled interfaces.
 - Files include: `179_Ecap.js`, `180_REAL_EXAMPLE.js`, `181_Ecap_Car.js`, `182_ECap_Bank.js`
+
+### Chapter 23: Inheritance
+- JavaScript inheritance using classes and prototypes.
+- Examples of single, multilevel, and hierarchical inheritance.
+- File list includes `183_Single_Inheritance.js`, `184_SI_Example.js`, `185_Single_Inheritance_Con.js`, `186_IQ.js`, `187_IQ2.js`, `188_REAL_PageObject_Model.js`, `189_Multiple_Inheritance.js`, `190_Multi_Level_Inheritance.js`, `191_Hierarchial_Inheritance.js`, and `cheatsheet.md`.
 
 ## 🚀 Getting Started
 
