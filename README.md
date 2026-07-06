@@ -28,6 +28,9 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter 21: Classes and Objects**: JavaScript classes, objects, constructors, static members, and public/private concepts.
  - **Chapter 22: Encapsulation**: Encapsulation examples demonstrating private and public members in JavaScript.
 - **Chapter 23: Inheritance**: JavaScript inheritance and prototype-based reuse patterns.
+- **Chapter 24: Polymorphism**: Polymorphism concepts and method overriding examples.
+- **Chapter 26: TypeScript**: TypeScript basics, primitive types, and compiler examples.
+- **Chapter 27: TypeScript Interface**: Interface examples and type-safe object structures.
 
 ## 🧭 Chapter Table of Contents
 
@@ -54,6 +57,9 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 21: Classes and Objects](Chapter_21_Classes_and_Objects/README.md)
 - [Chapter 22: Encapsulation](Chapter_22_Encapsulation/README.md)
 - [Chapter 23: Inheritance](Chapter_23_Inheritance/README.md)
+- [Chapter 24: Polymorphism](Chapter_24_Polymorphism/README.md)
+- [Chapter 26: TypeScript](Chapter_26_TypeScript/README.md)
+- [Chapter 27: TypeScript Interface](Chapter_27_TypeScript_Interface/README.md)
 
 ## 📘 Chapter Details
 
@@ -155,6 +161,18 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - JavaScript inheritance using classes and prototypes.
 - Examples of single, multilevel, and hierarchical inheritance.
 - File list includes `183_Single_Inheritance.js`, `184_SI_Example.js`, `185_Single_Inheritance_Con.js`, `186_IQ.js`, `187_IQ2.js`, `188_REAL_PageObject_Model.js`, `189_Multiple_Inheritance.js`, `190_Multi_Level_Inheritance.js`, `191_Hierarchial_Inheritance.js`, and `cheatsheet.md`.
+
+### Chapter 24: Polymorphism
+- Polymorphism examples with method overriding and shared behavior.
+- Files include: `192_Method_Overriding.js` and `cheatsheet.md`.
+
+### Chapter 26: TypeScript
+- TypeScript basics including primitive types, type annotations, and module behavior.
+- Files include: `193_TS.js`, `194_TS_HelloWorld.js`, `194_TS_HelloWorld.ts`, `195_TS_Part1.ts`, `196_TS_Part2.ts`, `197_TS_Part2.ts`, `198_Part3.ts`, `199_IQ.ts`, `200_IQ.ts`, and `cheatsheet.md`.
+
+### Chapter 27: TypeScript Interface
+- TypeScript interface examples for defining object shapes and type-safe contracts.
+- Files include: `201_IF.ts`.
 
 ## 🚀 Getting Started
 
