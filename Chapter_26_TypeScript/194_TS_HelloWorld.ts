@@ -1,5 +1,5 @@
-let Testname:string = "Login Test";
-function add_ts(a:number,b:number):number{
+let Test_name:string = "Login Test";
+function addts(a:number,b:number):number{
     return a+b;
 }
-console.log(add_ts(10,20));
+console.log(addts(10,20));
