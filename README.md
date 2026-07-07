@@ -31,6 +31,9 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter 24: Polymorphism**: Polymorphism concepts and method overriding examples.
 - **Chapter 26: TypeScript**: TypeScript basics, primitive types, and compiler examples.
 - **Chapter 27: TypeScript Interface**: Interface examples and type-safe object structures.
+- **Chapter 28: Enum**: TypeScript enum and enum-like patterns.
+- **Chapter 29: TypeScript Generics**: Generic functions and classes for reusable type-safe code.
+- **Chapter 30: Private / Public / Protected**: Access modifiers, abstraction, and visibility in TypeScript.
 
 ## 🧭 Chapter Table of Contents
 
@@ -60,6 +63,9 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 24: Polymorphism](Chapter_24_Polymorphism/README.md)
 - [Chapter 26: TypeScript](Chapter_26_TypeScript/README.md)
 - [Chapter 27: TypeScript Interface](Chapter_27_TypeScript_Interface/README.md)
+- [Chapter 28: Enum](Chapter_28_ENUM/README.md)
+- [Chapter 29: TypeScript Generics](Chapter_29_Typescript_Generic/README.md)
+- [Chapter 30: Private / Public / Protected](Chapter_30_PRIVATE_PUBLIC_PROTECTED/README.md)
 
 ## 📘 Chapter Details
 
@@ -173,6 +179,18 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 27: TypeScript Interface
 - TypeScript interface examples for defining object shapes and type-safe contracts.
 - Files include: `201_IF.ts`, `202_IF_Part2.ts`, `203_IF_READONLY.ts`, `204_IF_READOnly.ts`, `205_Interface.ts`, `206_Hooks.ts`, `207_Bug REPORT.ts`, `208_Test_Config.ts`, `209_REAL_EXAMPLE.ts`, and `210_Class_Interface.ts`.
+
+### Chapter 28: Enum
+- TypeScript enum examples and enum-like const object patterns.
+- Files include: `211_ENUM.ts`, `212_Enum_Fn.ts`, `213_ENUM.ts`, `214_API_.ts`.
+
+### Chapter 29: TypeScript Generics
+- Generic functions, classes, and reusable typed patterns.
+- Files include: `215_Generic.ts`, `216_Generic_Class.ts`, `217_Generic_API_RESPONSE.ts`.
+
+### Chapter 30: Private / Public / Protected
+- Access modifiers, abstract classes, and TypeScript visibility rules.
+- Files include: `218_PPP.ts`, `219_PageObjectModel.ts`, `220_READONLY.ts`, `221_Abstract_Class.ts`.
 
 ## 🚀 Getting Started
 
