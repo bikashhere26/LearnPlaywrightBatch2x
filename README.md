@@ -172,7 +172,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 
 ### Chapter 27: TypeScript Interface
 - TypeScript interface examples for defining object shapes and type-safe contracts.
-- Files include: `201_IF.ts`.
+- Files include: `201_IF.ts`, `202_IF_Part2.ts`, `203_IF_READONLY.ts`, `204_IF_READOnly.ts`, `205_Interface.ts`, `206_Hooks.ts`, `207_Bug REPORT.ts`, `208_Test_Config.ts`, `209_REAL_EXAMPLE.ts`, and `210_Class_Interface.ts`.
 
 ## 🚀 Getting Started
 

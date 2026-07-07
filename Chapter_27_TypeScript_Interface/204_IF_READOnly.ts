@@ -12,5 +12,6 @@ interface Data {
 const data: Data = {
     items: [1, 2, 3, 4, 5]
 };
-// data.items.push(6); This is not possible.
+// data.items.push(6); This is not possible
+
 console.log(data.items);
