@@ -34,6 +34,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter 28: Enum**: TypeScript enum and enum-like patterns.
 - **Chapter 29: TypeScript Generics**: Generic functions and classes for reusable type-safe code.
 - **Chapter 30: Private / Public / Protected**: Access modifiers, abstraction, and visibility in TypeScript.
+- **Chapter 31: Type Override / Decorators**: TypeScript override patterns and decorator examples.
 
 ## 🧭 Chapter Table of Contents
 
@@ -66,6 +67,7 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - [Chapter 28: Enum](Chapter_28_ENUM/README.md)
 - [Chapter 29: TypeScript Generics](Chapter_29_Typescript_Generic/README.md)
 - [Chapter 30: Private / Public / Protected](Chapter_30_PRIVATE_PUBLIC_PROTECTED/README.md)
+- [Chapter 31: Type Override / Decorators](Chapter_31_Type_Overide_Decortors/README.md)
 
 ## 📘 Chapter Details
 
@@ -191,6 +193,10 @@ This repository is organized into chapters, with each chapter focusing on a spec
 ### Chapter 30: Private / Public / Protected
 - Access modifiers, abstract classes, and TypeScript visibility rules.
 - Files include: `218_PPP.ts`, `219_PageObjectModel.ts`, `220_READONLY.ts`, `221_Abstract_Class.ts`.
+
+### Chapter 31: Type Override / Decorators
+- TypeScript override examples and decorator patterns.
+- Files include: `222_Type_As.ts`, `223_Type_Alias_As.ts`, `224_Override.ts`, `225_IQ.ts`, `226_Decorator.ts`, `227_Decortors_2.ts`, `228_Multiple_Decor.ts`.
 
 ## 🚀 Getting Started
 
