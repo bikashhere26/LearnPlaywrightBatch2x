@@ -30,3 +30,4 @@ let test1: TestCase = {
 }
 
 console.log("TC-" + test1.id + ": " + test1.name + " → " + test1.status);
+

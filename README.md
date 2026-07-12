@@ -20,8 +20,9 @@ This repository is organized into chapters, with each chapter focusing on a spec
 - **Chapter_12_Functions/**: JavaScript functions, parameters, return values, arrow functions, closures, and higher-order patterns.
 - **Chapter_13_Strings/**: String methods, properties, extraction, search, and conversion.
 - **Chapter_14_Objects/**: Objects, object creation, object functions, primitive vs reference behavior, destructuring, get/set methods, object iteration, and practice files.
+- **Chapter_15_2D_Array/**: Two-dimensional arrays, matrix traversal, nested loops, and pattern printing.
 - **Chapter_16_Callback/**: JavaScript callback functions, callback hell, and callback examples.
-- **Chapter 17: Promise**: JavaScript promises, Promise.all, Promise.allSettled, and async handling.
+- **Chapter 17: Promises**: JavaScript promises, `Promise.all`, `Promise.allSettled`, and async handling.
 - **Chapter 18: Async / Await**: Async functions, `await` operators, sequencing, and parallel execution.
 - **Chapter 19: Playwright Basics**: Playwright test automation examples and project setup.
 - **Chapter 20: Export / Import**: ES module examples covering named exports, default imports, and utility module reuse.

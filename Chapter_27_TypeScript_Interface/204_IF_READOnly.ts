@@ -15,3 +15,4 @@ const data: Data = {
 // data.items.push(6); This is not possible
 
 console.log(data.items);
+
